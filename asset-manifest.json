@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/audio-player/static/css/main.7bcfabb1.css",
+    "main.js": "/audio-player/static/js/main.5cd550ac.js",
+    "static/js/787.eb89f07d.chunk.js": "/audio-player/static/js/787.eb89f07d.chunk.js",
+    "static/media/B VOC.mp3": "/audio-player/static/media/B VOC.5ffa9906c5972f1fb03c.mp3",
+    "static/media/DRUMS.mp3": "/audio-player/static/media/DRUMS.f0332952662d2e1f5d15.mp3",
+    "static/media/HE HE VOC.mp3": "/audio-player/static/media/HE HE VOC.fd659059c1d55320658f.mp3",
+    "static/media/HIGH VOC.mp3": "/audio-player/static/media/HIGH VOC.f09f6e03383b234370d0.mp3",
+    "static/media/JIBRISH.mp3": "/audio-player/static/media/JIBRISH.d23f0b604ef55163d7e6.mp3",
+    "static/media/LEAD 1.mp3": "/audio-player/static/media/LEAD 1.f8658c330b3d07661550.mp3",
+    "static/media/UUHO VOC.mp3": "/audio-player/static/media/UUHO VOC.bc87006a5f29b4cfa918.mp3",
+    "static/media/_tambourine_shake_higher.mp3": "/audio-player/static/media/_tambourine_shake_higher.2ceb47bfdbea6e81aae9.mp3",
+    "index.html": "/audio-player/index.html",
+    "main.7bcfabb1.css.map": "/audio-player/static/css/main.7bcfabb1.css.map",
+    "main.5cd550ac.js.map": "/audio-player/static/js/main.5cd550ac.js.map",
+    "787.eb89f07d.chunk.js.map": "/audio-player/static/js/787.eb89f07d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7bcfabb1.css",
+    "static/js/main.5cd550ac.js"
+  ]
+}
